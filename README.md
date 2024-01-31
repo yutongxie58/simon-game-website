@@ -23,4 +23,4 @@ This project is a web-based version of the classic Simon memory game. It challen
 <img src="https://i.postimg.cc/hthNRQZz/simon-game-screenshot.png" width="800" alt="Dicee Game Screenshot">
 
 ## Try It Out
-Simply open the [webpage](https://yutongxie58.github.io/dicee-game-website/) in your browser to play!
+Simply open the [webpage](https://yutongxie58.github.io/simon-game-website/) in your browser to play!
